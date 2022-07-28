@@ -54,3 +54,17 @@ font-weight: bold;
     flex-direction: row;
     flex-wrap: wrap;
 }
+.intro{
+  display: grid;
+  justify-items: center;
+  align-items: stretch;
+  align-content: stretch;
+  width: 66%;
+  font-weight: 600;
+  font-size: large;
+  margin: 39px auto;
+  
+}
+span ul {
+  display: grid;
+}

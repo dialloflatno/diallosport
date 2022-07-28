@@ -54,48 +54,99 @@ function App() {
       </ul>
       <div>
         <h1>Resume</h1>
+        <div></div>
         <p>
-          Ibrahima Diallo
-          Brooklyn, NY || ibraclassdoc@gmail.com | Github | Blog | LinkedIn SOFTWARE ENGINEER
-          Experienced in Ruby on Rails and JavaScript based programming and a background of 5+ years in graphic design and architecture. Possess strong skills in product design and business development. Strong attention to design and detail in code, coupled with skills in communication, collaboration, and creativity to contribute to an engineering team.
-          TECHNICAL SKILLS
-          Web Development: React, HTML, CSS, Ruby, Rails, SQL, Javascript
+        <h1>Ibrahima Diallo <h3> SOFTWARE ENGINEER</h3></h1>
+          <p className='intro'>Experienced in Ruby on Rails and JavaScript based programming and a background of 5+ years in graphic design and architecture. Possess strong skills in product design and business development. Strong attention to design and detail in code, coupled with skills in communication, collaboration, and creativity to contribute to an engineering team.</p>
+
+
+          <h4>TECHNICAL SKILLS</h4>
+          <h5>Web Development React</h5> 
+          <br/>
+          <span>
+          HTML, CSS, Ruby, Rails, SQL, Javascript
           Design: Adobe PhotoShop, Illustrator, AfterEffect, InDesign, AutoCad/MEP, Google Sketch Up, Rhino 3D, and Revit
-          TECHNICAL PROJECTS
-          Dravus App - Github | - Informational app with XE Rates/Weather/Map andTo-Do List.
-          ● Built a map with MapBox that required custom geojson.
-          ● Developed and designed UI/UX, created mockup design concepts with Figma, and used HTML/CSS for styling.
-          CheckedIn - Github | - School safety app, alerting staff of unsafe situations.
-          ● Developed concept and designed a prototype using Figma for the frontend engineer.
-          ● Implemented Trello for task management, enabled the team to track/reference progress.
-          ● Formatted and configured diagram for backend engineers to better serve data using RESTful API.
-          ● Set and facilitated meetings to discuss progress and troubleshooting.
-          Bolance - Github | Demo - Personal Budgeting App, providing a visual of users expenses.
-          ● Developed a concept and designed a prototype using Figma.
-          ● Formatted and configured diagram for backend engineers to better serve data using RESTful API.
-          ● Worked with deeply nested structures to retrieve incremental pieces of data.
-          SELECT DESIGN/TECHNICAL EXPERIENCE
-          Graphic Designer
+          </span>
+
+          <br/>
+          <h5>TECHNICAL PROJECTS</h5>
+          <span>
+
+          <h4>Dravus App | - Informational app with XE Rates/Weather/Map andTo-Do List.</h4>
+          <br/>
+          <ul>
+          Built a map with MapBox that required custom geojson.
+          <br/>
+          Developed and designed UI/UX, created mockup design concepts with Figma, and used HTML/CSS for styling.
+          <br/>
+          <h4>CheckedIn - Github | - School safety app, alerting staff of unsafe situations.</h4>
+          <br/>
+          Developed concept and designed a prototype using Figma for the frontend engineer.
+          <br/>
+           Implemented Trello for task management, enabled the team to track/reference progress.
+          <br/>
+          Formatted and configured diagram for backend engineers to better serve data using RESTful API.
+          <br/>
+         Set and facilitated meetings to discuss progress and troubleshooting.
+          <br/>
+          <h4>Bolance - Personal Budgeting App, providing a visual of users expenses.</h4>
+          <br/>
+
+          <ul>
+           Developed a concept and designed a prototype using Figma.
+          <br/>
+          Formatted and configured diagram for backend engineers to better serve data using RESTful API.
+          <br/>
+          Worked with deeply nested structures to retrieve incremental pieces of data.
+          </ul>
+          <br/>
+          </ul>
+          </span>
+
+          <h4>SELECT DESIGN/TECHNICAL EXPERIENCE</h4>
+          <span>
+
+          <h5>Graphic Designer
           Vanguard Consulting
           New York, NY 07/2018 - 11/2018
           New York 05/2016 - 6/2016
-          ● Developed UX design for app concepts. Created content to promote upcoming events.
-          ● Built websites using an online web builder, edited videos and created intros for new platforms.
-          Architectural Drafter
-          Chris Benedict R.A
-          ● Developed building information model to display steel beam structure using Revit.
-          ● Wrote meeting reports and assisted in the design of the boiler system for a 6-story apartment building.
-          ● Drafted construction documents using AutoCAD MEP.
-          ADDITIONAL WORK EXPERIENCE
-          Courier, Breakaway, New York, NY 07/2019 - 08/2021 | Manager, Tailoring NYC, New York, NY 11/2018 - 01/2020 Barista, Optimistic Cafe, New York, NY 03/2019 - 05/2019 | Porter, Dig Inn, New York, NY 07/2018 - 11/2018 Intern, Decorilla, New York, NY 03/2014 - 05/2014
-          EDUCATION
-          Flatiron School
+          <ul>
+          <li>Developed UX design for app concepts. Created content to promote upcoming events.</li>
+          <li> Built websites using an online web builder, edited videos and created intros for new platforms.</li>
+          </ul>
+          
+          </h5>
+          <h5>Architectural Drafter
+          Chris Benedict R.A</h5>
+          <ul>
+          <li>Developed building information model to display steel beam structure using Revit.</li>
+          <li>Wrote meeting reports and assisted in the design of the boiler system for a 6-story apartment building.</li>
+          <li> Drafted construction documents using AutoCAD MEP.</li>
+          </ul>
+          </span>
+
+          <br/>
+
+          <h3>ADDITIONAL WORK EXPERIENCE</h3>
+          <span>
+         <ul> Courier, Breakaway, New York, NY 07/2019 - 08/2021 <br/> Manager, Tailoring NYC, New York, NY 11/2018 - 01/2020 <br/> Barista, Optimistic Cafe, New York, NY 03/2019 - 05/2019 <br/>Porter, Dig Inn, New York, NY 07/2018 - 11/2018 <br/> Intern, Decorilla, New York, NY 03/2014 - 05/2014 </ul>
+         </span>
+          <h3>EDUCATION</h3>
+          <ul>
+          <h4>Flatiron School, Full-Stack Engineer</h4>
           Remote 10/2021 - 01/2022
-          New York, NY 05/2018
-          New York Institute of Technology, Business Incubator Participant
-          ● Developed skills in product development, business development, and marketing
-          ● Created and presented full business concepts for two companies in the educational and social media sectors
+          New York, NY 
+          <br/>
+          <h4>New York Institute of Technology , Business Incubator Participant</h4>
+          05/2018
+          <ul>
+          <li>Developed skills in product development, business development, and marketing</li>
+        <li>Created and presented full business concepts for two companies in the educational and social media sectors </li>
+          </ul>
+          </ul>
+          
         </p>
+        
       </div>
     </div>
 

@@ -68,7 +68,7 @@ span ul {
   display: grid;
 }
 
-@media only screen and (min-width: 468px) {
+@media only screen and (max-width: 468px) {
   .skills {
     font-weight: 500;
     display: flex;
@@ -77,4 +77,22 @@ span ul {
     justify-content: center;
     flex-direction: column;
   }
+
+}
+
+.top{
+  display: grid;
+  justify-items: center;
+  align-items: stretch;
+}
+.name_house{
+  width: 26%;
+}
+.logo-place{
+  display: inline-flex;
+  margin: 2px auto;
+  column-gap: 20px;
+  align-items: center;
+  flex-direction: column;
+
 }

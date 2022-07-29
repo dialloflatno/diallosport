@@ -49,42 +49,74 @@ function App() {
       <div className="top">
         <h1>Projects</h1>
         <div className="name_house">
-          <div className= 'logo-place'>
-          <span><svg width="43" height="43" viewBox="0 0 43 43" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M43 21.5C43 33.3741 33.3741 43 21.5 43C9.62588 43 0 33.3741 0 21.5C0 9.62588 9.62588 0 21.5 0C33.3741 0 43 9.62588 43 21.5Z" fill="#DBB90A"/>
-<path d="M34.5929 13.522L18.3617 26.2782L14.7027 8.17381L34.5929 13.522Z" fill="#BF2627"/>
-<path d="M18.8884 13.031C19.3679 13.6912 19.6076 14.0213 19.8031 14.3584C20.6839 15.8769 21.0137 17.6563 20.7363 19.3926C20.6747 19.778 20.5694 20.1731 20.3587 20.9631L18.7612 26.9542L15.3359 8.13937L18.8884 13.031Z" fill="#DBB90A"/>
-<path d="M14.1165 9.32895C13.9758 8.55606 14.4837 7.81459 15.251 7.67284C16.0182 7.5311 16.7543 8.04275 16.895 8.81564L21.7642 35.5608C21.9049 36.3337 21.397 37.0751 20.6297 37.2169C19.8625 37.3586 19.1264 36.847 18.9857 36.0741L14.1165 9.32895Z" fill="#231F20"/>
-</svg>
-
-</span>
-          <a href="https://github.com/dialloflatno/Checkin"> CHECKEDIN</a>
+          <div className="logo-place">
+            <span>
+              <svg
+                width="43"
+                height="43"
+                viewBox="0 0 43 43"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M43 21.5C43 33.3741 33.3741 43 21.5 43C9.62588 43 0 33.3741 0 21.5C0 9.62588 9.62588 0 21.5 0C33.3741 0 43 9.62588 43 21.5Z"
+                  fill="#DBB90A"
+                />
+                <path
+                  d="M34.5929 13.522L18.3617 26.2782L14.7027 8.17381L34.5929 13.522Z"
+                  fill="#BF2627"
+                />
+                <path
+                  d="M18.8884 13.031C19.3679 13.6912 19.6076 14.0213 19.8031 14.3584C20.6839 15.8769 21.0137 17.6563 20.7363 19.3926C20.6747 19.778 20.5694 20.1731 20.3587 20.9631L18.7612 26.9542L15.3359 8.13937L18.8884 13.031Z"
+                  fill="#DBB90A"
+                />
+                <path
+                  d="M14.1165 9.32895C13.9758 8.55606 14.4837 7.81459 15.251 7.67284C16.0182 7.5311 16.7543 8.04275 16.895 8.81564L21.7642 35.5608C21.9049 36.3337 21.397 37.0751 20.6297 37.2169C19.8625 37.3586 19.1264 36.847 18.9857 36.0741L14.1165 9.32895Z"
+                  fill="#231F20"
+                />
+              </svg>
+            </span>
+            <a href="https://github.com/dialloflatno/Checkin"> CHECKEDIN</a>
           </div>
           <p>
             This is a school safe web app designed to alert staff about
             danagerous situatuions
           </p>
-          <div className= 'logo-place'>
-          <span><svg width="40" height="37" viewBox="0 0 40 37" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M40 18.5C40 28.7173 31.0457 37 20 37C8.9543 37 0 28.7173 0 18.5C0 8.28273 8.9543 0 20 0C31.0457 0 40 8.28273 40 18.5Z" fill="#141231"/>
-<path d="M10.3475 8.18638H14.6718V27.7746H10.3475V8.18638Z" fill="white"/>
-<path d="M30.8108 19.5227C30.8108 23.5581 27.4918 26.8295 23.3977 26.8295C19.3035 26.8295 15.9846 23.5581 15.9846 19.5227C15.9846 15.4874 19.3035 12.216 23.3977 12.216C27.4918 12.216 30.8108 15.4874 30.8108 19.5227Z" fill="white"/>
-</svg>
-</span>
-          <a href="https://bolance.herokuapp.com/"> BOLANCE</a>
-          </div>
-          {' '}
+          <div className="logo-place">
+            <span>
+              <svg
+                width="40"
+                height="37"
+                viewBox="0 0 40 37"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M40 18.5C40 28.7173 31.0457 37 20 37C8.9543 37 0 28.7173 0 18.5C0 8.28273 8.9543 0 20 0C31.0457 0 40 8.28273 40 18.5Z"
+                  fill="#141231"
+                />
+                <path
+                  d="M10.3475 8.18638H14.6718V27.7746H10.3475V8.18638Z"
+                  fill="white"
+                />
+                <path
+                  d="M30.8108 19.5227C30.8108 23.5581 27.4918 26.8295 23.3977 26.8295C19.3035 26.8295 15.9846 23.5581 15.9846 19.5227C15.9846 15.4874 19.3035 12.216 23.3977 12.216C27.4918 12.216 30.8108 15.4874 30.8108 19.5227Z"
+                  fill="white"
+                />
+              </svg>
+            </span>
+            <a href="https://bolance.herokuapp.com/"> BOLANCE</a>
+          </div>{' '}
           <p>
             This is a money managemnet web app designed to tracking spending
             habits{' '}
           </p>
           <a href="https://github.com/dialloflatno/Dravus-App.github.io">
             {' '}
-           <span>
-             </span> DRAVUS APP
+            <span></span> DRAVUS APP
           </a>
           <p>
-          For sightseers and adventurous peopl.This a web app is designed to
+            For sightseers and adventurous people.This a web app is designed to
             keep them updated on the current currecy rate, local weather, and to
             create a to-do list.
           </p>

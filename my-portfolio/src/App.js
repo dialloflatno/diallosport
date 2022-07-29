@@ -111,10 +111,13 @@ function App() {
             This is a money managemnet web app designed to tracking spending
             habits{' '}
           </p>
+          <div className ='logo-place'>
+            <span className ='drv-logo'>00</span>
           <a href="https://github.com/dialloflatno/Dravus-App.github.io">
             {' '}
-            <span></span> DRAVUS APP
+           DRAVUS APP
           </a>
+          </div>
           <p>
             For sightseers and adventurous people.This a web app is designed to
             keep them updated on the current currecy rate, local weather, and to

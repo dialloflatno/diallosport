@@ -77,22 +77,30 @@ span ul {
     justify-content: center;
     flex-direction: column;
   }
-
 }
 
-.top{
+.top {
   display: grid;
   justify-items: center;
   align-items: stretch;
 }
-.name_house{
+.name_house {
   width: 26%;
 }
-.logo-place{
+.logo-place {
   display: inline-flex;
   margin: 2px auto;
   column-gap: 20px;
   align-items: center;
   flex-direction: column;
-
+}
+.drv-logo {
+  color: rgb(24, 163, 206);
+  background: rgb(24, 163, 206);
+  width: 35px;
+  height: 35px;
+  border-start-end-radius: 20px;
+  border-start-start-radius: 20px;
+  border-end-end-radius: 20px;
+  border-end-start-radius: 20px;
 }

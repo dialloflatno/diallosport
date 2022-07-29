@@ -16,7 +16,6 @@ code {
 .phrases {
   margin: 20px;
   font-weight: 300;
-
   font-size: xxx-large;
   display: grid;
   flex-direction: column;
@@ -24,7 +23,9 @@ code {
   text-decoration: none;
 }
 .phrases span:hover {
-  font-weight: bolder;
+  font-weight: 900;
+  transition: 0.5s;
+
 }
 a {
   text-decoration: none;
@@ -68,6 +69,10 @@ span ul {
   display: grid;
 }
 
+.effect-logo:hover {
+  transition: 0.5s;
+  color: cornsilk;
+}
 @media only screen and (max-width: 468px) {
   .skills {
     font-weight: 500;

@@ -169,7 +169,7 @@ function App() {
         </p>
       </div>
       <br />
-      <h4>First Company to Employee <strong>GETS A  "I BE DESIGNING SWAGG BAG !!!! " </strong></h4>
+      <h4>First Company to Employ Me Recieves  <strong>" I BE DESIGNING SWAGG BAG !!!! " </strong></h4>
     </div>
   )
 }

@@ -76,14 +76,14 @@ function App() {
                 />
               </svg>
             </span>
-            <a href="https://github.com/dialloflatno/Checkin" className = 'effect-logo' > CHECKEDIN</a>
+            <a href="https://github.com/dialloflatno/Checkin" className='effect-logo' > CHECKEDIN</a>
           </div>
           <p>
             This is a school safe web app designed to alert staff about
             danagerous situatuions
           </p>
           <div className="logo-place">
-            <span> 
+            <span>
               <svg
                 width="40"
                 height="37"
@@ -105,19 +105,19 @@ function App() {
                 />
               </svg>
             </span>
-            <a href="https://bolance.herokuapp.com/" className = 'effect-logo'> BOLANCE</a>
+            <a href="https://bolance.herokuapp.com/" className='effect-logo'> BOLANCE</a>
           </div>{' '}
           <p>
             This is a money managemnet web app designed to tracking spending
             habits{' '}
           </p>
-          <div className ='logo-place'>
-            <span className ='drv-logo'>00</span>
-          <a href="https://github.com/dialloflatno/Dravus-App.github.io" className = 'effect-logo'>
-            {' '}
-            
-           DRAVUS APP
-          </a>
+          <div className='logo-place'>
+            <span className='drv-logo'>00</span>
+            <a href="https://github.com/dialloflatno/Dravus-App.github.io" className='effect-logo'>
+              {' '}
+
+              DRAVUS APP
+            </a>
           </div>
           <p>
             For sightseers and adventurous people.This a web app is designed to
@@ -168,6 +168,8 @@ function App() {
           engineering team.
         </p>
       </div>
+      <br />
+      <h4>First Company to Employee GETS A I BE DESIGNING SWAGG BAG !!!!</h4>
     </div>
   )
 }

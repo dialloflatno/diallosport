@@ -79,8 +79,8 @@ function App() {
             <a href="https://github.com/dialloflatno/Checkin" className='effect-logo' > CHECKEDIN</a>
           </div>
           <p>
-            This is a school safe web app designed to alert staff about
-            danagerous situatuions
+          This web app is for school safety. Designed to alert staff about
+            dangerous situations occur on school grounds.
           </p>
           <div className="logo-place">
             <span>
@@ -108,8 +108,8 @@ function App() {
             <a href="https://bolance.herokuapp.com/" className='effect-logo'> BOLANCE</a>
           </div>{' '}
           <p>
-            This is a money managemnet web app designed to tracking spending
-            habits{' '}
+          This web app is for money management. Designed to track users' spending
+            habits.{' '}
           </p>
           <div className='logo-place'>
             <span className='drv-logo'>00</span>
@@ -120,7 +120,7 @@ function App() {
             </a>
           </div>
           <p>
-            For sightseers and adventurous people.This a web app is designed to
+            For sightseers and adventurous people. This a web app is designed to
             keep them updated on the current currecy rate, local weather, and to
             create a to-do list.
           </p>
@@ -160,7 +160,7 @@ function App() {
       <div>
         <h1>Ibrahima Diallo - SOFTWARE ENGINEER</h1>
         <p className="intro">
-          Experienced in Ruby on Rails and JavaScript based programming and a
+        Experienced in Ruby on Rails and JavaScript-based programming and 
           background of 5+ years in graphic design and architecture. Possess
           strong skills in product design and business development. Strong
           attention to design and detail in code, coupled with skills in

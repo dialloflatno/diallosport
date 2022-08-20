@@ -107,7 +107,7 @@ span ul {
 }
 @media only screen and (max-width: 468px) {
   .logoSmile{
-    width: 320px;
+    width: 200px;
   }
   .skills {
     font-weight: 500;

@@ -113,6 +113,13 @@ span ul {
     margin-left: -30px;
 
   }
+  .top-stack-logo-phrase{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
   .phrases{
     font-size: 40px;
   }

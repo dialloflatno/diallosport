@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <div>
+      <div className='top-stack-logo-phrase'>
         <div className="firststack">
           <div className="phrases">
             <span>I BE SMILING</span>

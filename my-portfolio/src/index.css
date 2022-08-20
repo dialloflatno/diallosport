@@ -22,7 +22,14 @@ code {
   justify-items: start;
   text-decoration: none;
 }
-
+a {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  align-content: space-between;
+  flex-direction: row;
+  gap: 10px;
+}
 .js_box {
   background-color: black;
   height: 20px;
@@ -43,7 +50,7 @@ code {
   font-weight: 900;
   margin-top: -242px;
 }
-.place{
+.place {
   margin-left: -22px;
   font-size: 26px;
   font-weight: 600;
@@ -99,6 +106,9 @@ span ul {
   color: cornsilk;
 }
 @media only screen and (max-width: 468px) {
+  .logoSmile{
+    width: 320px;
+  }
   .skills {
     font-weight: 500;
     display: flex;

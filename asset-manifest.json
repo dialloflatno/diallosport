@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/diallosport/static/css/main.5d250e99.css",
-    "main.js": "/diallosport/static/js/main.345f356a.js",
+    "main.css": "/diallosport/static/css/main.15f158fa.css",
+    "main.js": "/diallosport/static/js/main.b70af8a4.js",
     "static/js/787.28cb0dcd.chunk.js": "/diallosport/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/diallosport/index.html",
-    "main.5d250e99.css.map": "/diallosport/static/css/main.5d250e99.css.map",
-    "main.345f356a.js.map": "/diallosport/static/js/main.345f356a.js.map",
+    "main.15f158fa.css.map": "/diallosport/static/css/main.15f158fa.css.map",
+    "main.b70af8a4.js.map": "/diallosport/static/js/main.b70af8a4.js.map",
     "787.28cb0dcd.chunk.js.map": "/diallosport/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d250e99.css",
-    "static/js/main.345f356a.js"
+    "static/css/main.15f158fa.css",
+    "static/js/main.b70af8a4.js"
   ]
 }
